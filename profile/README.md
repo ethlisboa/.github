@@ -1,12 +1,6 @@
-## Hi there 👋
+## Hi there 👋 [![Awesome!](https://img.shields.io/badge/this%20project%20is-awesome-ff69b4)](https://github.com/ethlisboa/space-excalibur)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+**SpaceXcalibur** - The quest for the last energy saber.
+* 🔪 Game: [space-excalibur](https://github.com/ethlisboa/space-excalibur)
+* 🗒️ Contracts: [space-contracts](https://github.com/ethlisboa/space-contracts)
+* 🥗 Recipes: [space-recipes](https://github.com/ethlisboa/space-recipes)
