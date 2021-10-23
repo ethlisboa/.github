@@ -1,2 +1,2 @@
-# ethlisboa
-The quest for the last energy saber.
+# .github/profile
+Hosting the Github organization profile readme.
