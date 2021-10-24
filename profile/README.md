@@ -6,8 +6,6 @@
 * 🥗 Recipes: [space-recipes](https://github.com/ethlisboa/space-recipes)
 
 SpaceXcalibur [v0.0.5](https://github.com/ethlisboa/space-excalibur/releases/tag/v0.0.5) is deployed on IPFS; hash:
-- CIDv0: `QmTZ2RfrZuKicHEmjCeg8DG4WswREBFdmcDVpcJgjCXEqS`
-- CIDv1: `bafybeicnox2zw6iwpekohasd5q57emwpdd32h6g7uynnbgoa5b476ycrvu`
-- [ipfs://QmTZ2RfrZuKicHEmjCeg8DG4WswREBFdmcDVpcJgjCXEqS/](ipfs://QmTZ2RfrZuKicHEmjCeg8DG4WswREBFdmcDVpcJgjCXEqS/)
+- [ipfs://QmTZ2RfrZuKicHEmjCeg8DG4WswREBFdmcDVpcJgjCXEqS](ipfs://QmTZ2RfrZuKicHEmjCeg8DG4WswREBFdmcDVpcJgjCXEqS)
 - https://bafybeicnox2zw6iwpekohasd5q57emwpdd32h6g7uynnbgoa5b476ycrvu.ipfs.dweb.link
 - https://bafybeicnox2zw6iwpekohasd5q57emwpdd32h6g7uynnbgoa5b476ycrvu.ipfs.cf-ipfs.com
