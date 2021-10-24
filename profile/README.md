@@ -9,3 +9,5 @@ SpaceXcalibur [v0.0.5](https://github.com/ethlisboa/space-excalibur/releases/tag
 - [ipfs://QmTZ2RfrZuKicHEmjCeg8DG4WswREBFdmcDVpcJgjCXEqS](ipfs://QmTZ2RfrZuKicHEmjCeg8DG4WswREBFdmcDVpcJgjCXEqS)
 - https://bafybeicnox2zw6iwpekohasd5q57emwpdd32h6g7uynnbgoa5b476ycrvu.ipfs.dweb.link
 - https://bafybeicnox2zw6iwpekohasd5q57emwpdd32h6g7uynnbgoa5b476ycrvu.ipfs.cf-ipfs.com
+
+Devpost: https://devpost.com/software/spacexcalibur
